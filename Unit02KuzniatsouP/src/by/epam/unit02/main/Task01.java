@@ -5,13 +5,13 @@ public class Task01 {
 
     public static void main(String[] args) {
 
-        int a,b,c,z;
+        int a,b,c,z;// code convention - каждая переменная в отдельной строке
 
         a=4;
         b=6;
         c=10;
 
-                z=(a-3)*b/2+c;
+                z=(a-3)*b/2+c;//выравнивай код
                 System.out.println("z = " + z);
     }
 }
