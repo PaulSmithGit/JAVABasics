@@ -20,5 +20,5 @@ public class Task09 {
             } else {
                 System.out.println("Функция не определена");
             }
-    }
+    }// Молодец
 }
